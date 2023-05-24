@@ -5,5 +5,8 @@ export default axios.create({
   params: {
     key: import.meta.env.VITE_RAWG_API_KEY,
   },
+  headers: {
+    "Access-Control-Allow-Origin": "*",
+  },
   withCredentials: false,
 });
