@@ -1,6 +1,6 @@
 # GameHub React Project:
 
-A React based Game discovery app that uses RAWG API for data and Chakra UI library.
+A React + TypeScript based Game discovery app that uses RAWG API and Chakra UI.
 
 ---
 
